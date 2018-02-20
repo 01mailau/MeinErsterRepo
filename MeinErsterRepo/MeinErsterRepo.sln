@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeinErsterRepo", "MeinErsterRepo\MeinErsterRepo.csproj", "{DB28F65F-05F1-41E9-B7F1-FCE7267D87B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB28F65F-05F1-41E9-B7F1-FCE7267D87B6}.Debug|x86.ActiveCfg = Debug|x86
+		{DB28F65F-05F1-41E9-B7F1-FCE7267D87B6}.Debug|x86.Build.0 = Debug|x86
+		{DB28F65F-05F1-41E9-B7F1-FCE7267D87B6}.Release|x86.ActiveCfg = Release|x86
+		{DB28F65F-05F1-41E9-B7F1-FCE7267D87B6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
